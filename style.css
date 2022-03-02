@@ -1,0 +1,250 @@
+body {
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle {
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+}
+
+.square {
+    width: 50%;
+    float: left;
+}
+
+#logo {
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#zegar {
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.tile1 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+
+.tile1:hover {
+    background-color: #2084c2;
+}
+
+.tile2 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #888888;
+    float: left;
+    text-align: center;
+}
+
+.tile2:hover {
+    background-color: #777777;
+}
+
+.tile3 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748;
+    float: left;
+    text-align: center;
+}
+
+.tile3:hover {
+    background-color: #82b637;
+}
+
+.tile4 {
+    margin: 10px;
+    width: 420px;
+    height: 82px;
+    background-color: #ee5a32;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.tile5 {
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #777777;
+    text-align: justify;
+    padding: 30px;
+}
+
+.yt {
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #d94348;
+    float: left;
+}
+
+.yt:hover {
+    background-color: #c83237;
+}
+
+.fb {
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+}
+
+.fb:hover {
+    background-color: #3557a2;
+}
+
+.L {
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color:#0e76a8;
+    float: left;
+}
+
+.L:hover {
+    background-color: #0d65a7;
+}
+
+.git {
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: black;
+    float: left;
+}
+
+.git:hover {
+    background-color: #111111;
+}
+
+a.tilelink {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+.arrow {
+    width: 1000px;
+    text-align: center;
+    height: 130px;
+}
+
+.more {
+    margin: 10px;
+    width: 920px;
+    height: 82px;
+    background-color: #ffffff;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    color:black;
+    margin-top: 40px;
+}
+
+.tiles {
+    width: 1000px;
+    text-align: center;
+}
+
+.task01 {
+    margin: 10px;
+    width: 480px;
+    height: 142px;
+    background-color: #DB7093;
+    float: left;
+}
+
+.task01:hover {
+    background-color: #CA6082;
+}
+
+.task02 {
+    margin: 10px;
+    width: 480px;
+    height: 142px;
+    background-color: #9ACD32;
+    float: left;
+}
+
+.task02:hover {
+    background-color: #8abc21;
+}
+
+.task03 {
+    margin: 10px;
+    width: 313px;
+    height: 142px;
+    background-color: #7B68EE;
+    float: left;
+}
+
+.task03:hover {
+    background-color: #6a57dd;
+}
+
+.task04 {
+    margin: 10px;
+    width: 313px;
+    height: 142px;
+    background-color: #DA70D6;
+    float: left;
+}
+
+.task04:hover {
+    background-color: #CA60c5;
+}
+
+.task05 {
+    margin: 10px;
+    width: 313px;
+    height: 142px;
+    background-color: #FF6347;
+    float: left;
+}
+
+.task05:hover {
+    background-color: #EE5236;
+}
+
+.decoration {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
+
